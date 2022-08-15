@@ -2,3 +2,4 @@
 
 bayesian inference
 Gibbs sampling
+Jackknife
