@@ -1,0 +1,3 @@
+# Statistic
+
+bayesian inference
