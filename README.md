@@ -7,4 +7,4 @@ QR decomposition
 permutation testing
 univariate normal distribution
 Metropolis hastings algorithm
-
+Monte carlo hypothesis testing
