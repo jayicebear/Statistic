@@ -28,6 +28,8 @@ Univariate normal distribution
 Metropolis hastings algorithm
 
 ![스크린샷 2022-08-17 오후 1 40 28](https://user-images.githubusercontent.com/41169144/185206270-63c65e3e-5dd2-46fb-9af9-621300ccbeac.png)
+![스크린샷 2022-08-17 오후 1 41 37](https://user-images.githubusercontent.com/41169144/185206497-ca1dea02-ba68-412f-b1fd-db9a45c6d504.png)
+
 
 Monte carlo hypothesis testing
 
