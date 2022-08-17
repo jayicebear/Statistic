@@ -22,11 +22,9 @@ Permutation testing
 
 Univariate normal distribution
 
-![스크린샷 2022-08-17 오후 1 42 45](https://user-images.githubusercontent.com/41169144/185206881-1361f201-dfa2-42b5-98ee-01857ff3c680.png)
-44d00b-b253-450a-9f10-2fb0ae
-![스크린샷 2022-08-17 오후 1 39 56](https://user-images.githubusercontent.com/41![Uploading 스크린샷 2022-08-17 오후 1.42.45.png…]()
-169144/185206173-972457c9-82e9-40fe-a27a-027dce79d7d5.png)
-
+![스크린샷 2022-08-17 오후 1 42 40](https://user-images.githubusercontent.com/41169144/185207230-aada62bf-6a42-4b4a-b189-4b85c640d01d.png)
+![스크린샷 2022-08-17 오후 1 42 45](https://user-images.githubusercontent.com/41169144/185207244-e7c5c6ca-adfe-4009-9dec-e7acd813581b.png)
+![스크린샷 2022-08-17 오후 1 39 56](https://user-images.githubusercontent.com/41169144/185207258-b551e5c2-bd1b-4211-9dd4-ea82ac20dbb4.png)
 
 Metropolis hastings algorithm
 
