@@ -22,7 +22,8 @@ Permutation testing
 
 Univariate normal distribution
 
-![스크린샷 2022-08-17 오후 1 42 40](https://user-images.githubusercontent.com/41169144/185206767-f7![스크린샷 2022-08-17 오후 1 42 45](https://user-images.githubusercontent.com/41169144/185206881-1361f201-dfa2-42b5-98ee-01857ff3c680.png)
+![스크린샷 2022-08-17 오후 1 42 40](https://user-images.githubusercontent.com/41169144/185206767-f7
+![스크린샷 2022-08-17 오후 1 42 45](https://user-images.githubusercontent.com/41169144/185206881-1361f201-dfa2-42b5-98ee-01857ff3c680.png)
 44d00b-b253-450a-9f10-2fb0ae
 ![Uploading 스크린샷 2022-08-17 오후 1.42.45.png…]()
 420f27.png)
