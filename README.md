@@ -5,3 +5,4 @@ Gibbs sampling
 Jackknife
 QR decomposition
 permutation testing
+univariate normal distribution
